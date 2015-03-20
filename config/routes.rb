@@ -1,1 +1,1 @@
-match 'mention/search', :to => 'mention#search'
+get 'mention/search', to: 'mention#search'
